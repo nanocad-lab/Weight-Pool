@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "arm_nnfunctions.h": "c",
+    "arm_nnsupportfunctions.h": "c",
+    "test_data.h": "c",
+    "validate.h": "c",
+    "FLASH_PAGE_F1.C": "cpp",
+    "stm32f1xx_hal.h": "c",
+    "stm32f1xx_hal_rcc.h": "c",
+    "stm32f1xx_hal_def.h": "c",
+    "stm32f1xx_hal_conf.h": "c",
+    "stm32f1xx.h": "c",
+    "lut_utiles.h": "c",
+    "config_data.h": "c",
+    "weights_data.h": "c"
+  }
+}
