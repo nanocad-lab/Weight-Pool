@@ -1,8 +1,8 @@
-# MLSys22_artifact for Bit-serial Weight Pools
-Codes for MLSys 2022 artifact evaluation. 
+# Codes for Bit-serial Weight Pools
+Paper title: **Bit-serial weight pools: compression and arbitrary precision execution of neural networks on resource constrained processors**.
+Accepted in MLSys 2022. 
 The experiment codes contain two parts, one is for runtime evaluation and the other is for neural network accuracy evaluation.
 
-This readme file contains detailed information on how to verify the results.
 
 ## Runtime evaluation
 We have uploaded three videos showing the demonstration of running the runtime codes on real microcontrollers in the runtime folder.
