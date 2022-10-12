@@ -1,6 +1,21 @@
 # Codes for Bit-serial Weight Pools
 Paper title: **Bit-serial weight pools: compression and arbitrary precision execution of neural networks on resource constrained processors**.
 Accepted in MLSys 2022. 
+https://proceedings.mlsys.org/paper/2022/file/502e4a16930e414107ee22b6198c578f-Paper.pdf
+
+Please consider citing our work if you found it useful for your research:
+```
+@article{li2022bit,
+  title={Bit-serial Weight Pools: Compression and Arbitrary Precision Execution of Neural Networks on Resource Constrained Processors},
+  author={Li, Shurui and Gupta, Puneet},
+  journal={Proceedings of Machine Learning and Systems},
+  volume={4},
+  pages={238--250},
+  year={2022}
+}
+```
+
+
 The experiment codes contain two parts, one is for runtime evaluation and the other is for neural network accuracy evaluation.
 
 
